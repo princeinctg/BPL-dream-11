@@ -1,0 +1,110 @@
+[
+  {
+    "playerName": "Shakib Al Hasan",
+    "playerImg": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Shakib_Al_Hasan_(1).jpg",
+    "origin": "Bangladesh",
+    "playerType": "All-Rounder",
+    "bowlingStyle": "Left-arm orthodox",
+    "battingStyle": "Left-hand",
+    "price": 500
+  },
+  {
+    "playerName": "Mushfiqur Rahim",
+    "playerImg": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Mushfiqur_Rahim_2018_(cropped).jpg",
+    "origin": "Bangladesh",
+    "playerType": "Wicket-Keeper",
+    "bowlingStyle": "Right-arm medium",
+    "battingStyle": "Right-hand",
+    "price": 450
+  },
+  {
+    "playerName": "Mustafizur Rahman",
+    "playerImg": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Mustafizur_Rahman_(2).jpg",
+    "origin": "Bangladesh",
+    "playerType": "Bowler",
+    "bowlingStyle": "Left-arm fast-medium",
+    "battingStyle": "Left-hand",
+    "price": 400
+  },
+  {
+    "playerName": "Litton Das",
+    "playerImg": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Liton_Das_(1).jpg",
+    "origin": "Bangladesh",
+    "playerType": "Wicket-Keeper",
+    "bowlingStyle": "Right-arm medium",
+    "battingStyle": "Right-hand",
+    "price": 450
+  },
+  {
+    "playerName": "Taskin Ahmed",
+    "playerImg": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Taskin_Ahmed_in_2024_(cropped).jpg",
+    "origin": "Bangladesh",
+    "playerType": "Bowler",
+    "bowlingStyle": "Right-arm fast",
+    "battingStyle": "Right-hand",
+    "price": 400
+  },
+  {
+    "playerName": "Mehidy Hasan Miraz",
+    "playerImg": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Mehidy_Hasan_Miraz_(2).jpg",
+    "origin": "Bangladesh",
+    "playerType": "All-Rounder",
+    "bowlingStyle": "Right-arm off break",
+    "battingStyle": "Right-hand",
+    "price": 450
+  },
+  {
+    "playerName": "Najmul Hossain Shanto",
+    "playerImg": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Najmul_Hossain_Shanto.jpg",
+    "origin": "Bangladesh",
+    "playerType": "Batter",
+    "bowlingStyle": "Right-arm medium",
+    "battingStyle": "Left-hand",
+    "price": 400
+  },
+  {
+    "playerName": "Rishad Hossain",
+    "playerImg": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Rishad_Hossain,_2025-02-08_Fortune_Barishal_BPL_2025_Champions_Trophy_Presentation_Dhaka_(PID-0003668)_(cropped).jpg",
+    "origin": "Bangladesh",
+    "playerType": "All-Rounder",
+    "bowlingStyle": "Right-arm leg break",
+    "battingStyle": "Right-hand",
+    "price": 350
+  },
+  {
+    "playerName": "Towhid Hridoy",
+    "playerImg": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Towhid_Hridoy.jpg",
+    "origin": "Bangladesh",
+    "playerType": "Batter",
+    "bowlingStyle": "Right-arm medium",
+    "battingStyle": "Right-hand",
+    "price": 350
+  },
+  {
+    "playerName": "Tanzid Hasan",
+    "playerImg": "https://images.unsplash.com/photo-1540747913346-19e32dc3e97e",
+    "origin": "Bangladesh",
+    "playerType": "Batter",
+    "bowlingStyle": "Right-arm medium",
+    "battingStyle": "Left-hand",
+    "price": 350
+  },
+  {
+    "playerName": "Hasan Mahmud",
+    "playerImg": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Hasan_Mahmud_(cricketer),_2024_(cropped).jpg",
+    "origin": "Bangladesh",
+    "playerType": "Bowler",
+    "bowlingStyle": "Right-arm fast",
+    "battingStyle": "Right-hand",
+    "price": 400
+  },
+  {
+    "playerName": "Soumya Sarkar",
+    "playerImg": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Soumya-Sarkar.jpg",
+    "origin": "Bangladesh",
+    "playerType": "All-Rounder",
+    "bowlingStyle": "Right-arm medium-fast",
+    "battingStyle": "Left-hand",
+    "price": 500
+  }
+]
